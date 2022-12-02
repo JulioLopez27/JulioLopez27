@@ -14,15 +14,15 @@
 ---
 ### 👨‍💻 About Me:
 
-- 📫 How to reach me: **julioneo95@hotmail.com** or <a href="https://www.linkedin.com/in/juliolopezg95/">**LinkedIn profile.**</a>
+- 📫 How to reach me: **julioneo95@hotmail.com** or <a href="https://www.linkedin.com/in/juliolopezg95/">**LinkedIn profile**</a>.
 
-- 📝 I have two projects in production. Landing page projects: <a href="https://sirbarber-codarme.vercel.app/"> **SirBarber** </a> | <a href="https://lovet-codarme.vercel.app/">**Lovet**</a> and <a href="https://fsc-natrave.vercel.app">**Na Trave** </a>
+- 📝 I have two projects in production. Landing page projects: <a href="https://sirbarber-codarme.vercel.app/"> **SirBarber** </a> | <a href="https://lovet-codarme.vercel.app/">**Lovet**</a> and <a href="https://fsc-natrave.vercel.app">**Na Trave**</a>.
 
-- ⚡ Fun fact: One of them is about Qatar world cup, you can see it <a href="https://fsc-natrave.vercel.app/"> here</a>.
+- ⚡ Fun fact: One of them is about Qatar world cup, you can see it <a href="https://fsc-natrave.vercel.app/"> **here**</a>.
 
-- 💬 Ask me about **C#, Java, SQL**
+- 💬 Ask me about **C#, Java, SQL**.
 
-- 🌱 I’m currently learning **Javascript, ReacjJs, NodeJs, Tailwindcss**
+- 🌱 I’m currently learning **Javascript, ReacjJs, NodeJs, Tailwindcss**.
 
 <div align="left">
     <h3> 🔨 Lenguages and Tools: </h3>
