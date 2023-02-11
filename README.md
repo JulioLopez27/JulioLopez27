@@ -4,8 +4,8 @@
     <h1> Hi there👋,welcome to my GitHub profile!</h1>
         <p align="left">
             <h3>
-                I'm Julio Cesar, a dedicated and passionate fullstack developer from Uruguay.
-                I'm always learning something that I can use in my life.
+                I'm Julio Cesar, a dedicated and passionate fullstack developer.
+                I'm always learning something that I can use in my life as a developer.
             </h3>
         </p>
 </div>
