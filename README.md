@@ -2,7 +2,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="200" alt="">
     <h1> Hi there👋,welcome to my GitHub profile!</h1>
-        <p align="left" background-color="red">
+        <p align="left">
             <h3>
                 I'm Julio Cesar, a dedicated and passionate fullstack developer.
                 I'm always learning something that I can use in my life as a developer.
