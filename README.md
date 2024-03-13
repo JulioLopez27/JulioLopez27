@@ -1,6 +1,5 @@
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="200" alt="">
     <h1> Hi there👋,welcome to my GitHub profile!</h1>
         <p align="left">
             <h3>
